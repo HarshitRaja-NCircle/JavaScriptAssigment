@@ -17,3 +17,11 @@ Character . (dot) provided that it is not the first or last character and it wil
 ex: validateString(["12asd", "asd10","asd"]) => ["12asd", "asd10"]
 
 ![image](https://user-images.githubusercontent.com/116061081/196608794-f64d2510-94c0-47e1-9f3d-1f4074f1e61f.png)
+
+4) Write a sorting function that takes in an array of names and sorts them by last name either alphabetically (ASC) or reverse-alphabetically (DESC).
+
+Sample Input: [“asd dsa”, “john doe”, “fgh bgh” ]
+Sample Output:  [“fgh bgh”, “john doe”, “asd dsa”]
+
+![image](https://user-images.githubusercontent.com/116061081/196613446-ae18024d-efd6-4a4a-91cd-220e885b885b.png)
+
