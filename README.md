@@ -31,3 +31,8 @@ toObjectsArray({}) ➞ []
 
 ![image](https://user-images.githubusercontent.com/116061081/196616774-32128c4f-c77c-4cf1-95cb-9b9492c64075.png)
 
+6) Use promise while calling rest API, add result to local storage. 
+
+![image](https://user-images.githubusercontent.com/116061081/196656335-6564d13e-b7fb-4931-bd60-22b0414ea776.png)
+
+
