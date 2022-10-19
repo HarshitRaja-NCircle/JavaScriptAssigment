@@ -25,3 +25,9 @@ Sample Output:  [“fgh bgh”, “john doe”, “asd dsa”]
 
 ![image](https://user-images.githubusercontent.com/116061081/196613446-ae18024d-efd6-4a4a-91cd-220e885b885b.png)
 
+5) Write a function that converts an object into an array, where each element represents a key-value pair.
+toObjectsArray({ a1: 1, a2: 2 }) ➞ [["a1", 1], ["a2", 2]]
+toObjectsArray({}) ➞ []
+
+![image](https://user-images.githubusercontent.com/116061081/196616774-32128c4f-c77c-4cf1-95cb-9b9492c64075.png)
+
